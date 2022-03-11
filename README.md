@@ -9,6 +9,13 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> Live at: https://rosaleeknight.github.io/calculator/ </p>
 
 -----
+# 💻 Basic Script Collection
+<p> A collection of basic scripts for small tasks. </p>
+<p> Made with: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/156934745-edea71d3-f814-43b1-9e1a-943a0b7a7b30.svg" alt="JavaScript" ></a> </p> 
+<p> Repo at: https://github.com/RosaleeKnight/basic-scripts-collection </p>
+<p> Live at: N/A </p>
+ 
+-----
 # 💻 BaSH Configuration
 <p> A copy of my BaSH configuration file I use to style my prompt (bash.rc). </p>
 <p> Made with: <a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/156937550-1cc647c4-2cd3-46fd-aa5f-8e59d67d134c.svg" alt="BaSH" ></a> <a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/156937878-73bbf3d2-1537-4947-a3e6-a664d12986e2.svg" alt="GNU Nano" ></a> </p> 
