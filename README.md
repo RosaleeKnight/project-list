@@ -11,7 +11,7 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 -----
 # 💻 Basic Script Collection
 <p> A collection of basic scripts for small tasks. </p>
-<p> Made with: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/156934745-edea71d3-f814-43b1-9e1a-943a0b7a7b30.svg" alt="JavaScript" ></a> </p> 
+<p> Made with: <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/156934745-edea71d3-f814-43b1-9e1a-943a0b7a7b30.svg" alt="JavaScript" ></a> <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158101346-e0df7e2f-6aeb-46e3-ae30-c945dc28e2eb.svg" alt="Python" ></a> </p> 
 <p> Repo at: https://github.com/RosaleeKnight/basic-scripts-collection </p>
 <p> Live at: N/A </p>
  
