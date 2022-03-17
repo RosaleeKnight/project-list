@@ -1,5 +1,10 @@
 # ⭐ This is an complete list of all my projects and content.
-For anyone interested in what I've been up to this list is ordered alphabetically by name with a link to the repo page or live page if availiable, a short description of each project. A type icon comes before the name with ( 🎮 Game) ( 🖱️ Website or Webpage) or ( 💻 Downloadable File or Program).
+For anyone interested in what I've been up to this list is ordered alphabetically by name with a link to the repo page or live page if availiable and a short description of each project. 
+<p> Legend: </p>
+<p> 🎨 Art or Graphic </p>
+<p> 💻 Downloadable File or Program
+<p> 🎮 Game </p> 
+<p> 🖱️ Website or Webpage </p>
 
 -----
 # 🖱️ Calculator
@@ -63,6 +68,13 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> Contains: <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158236954-a42f1155-7a76-4e66-9ec4-a11b08812866.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158236781-7996bc28-6291-46a4-ae93-3f62f42535a9.svg" alt="CSS 3" ></a> </p> 
 <p> Repo at: https://github.com/RosaleeKnight/landing-page </p>
 <p> Live at: https://rosaleeknight.github.io/landing-page/ </p>
+
+-----
+# 🎨 Word Cloud
+<p> A graphic created by make a word cloud using python in a jupyter notebook for my final project in Crash Course on Python by Google. </p>
+<p> Contains: <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158237145-ccd16feb-fb36-412e-92d5-c9f8bfe6cd97.svg" alt="Python" ></a> <a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/158289373-73a7f347-2121-4d5e-b9dd-173e3767cbab.svg" alt="Jupyter" ></a>
+<p> Repo at: https://github.com/RosaleeKnight/word-cloud </p>
+<p> Live at: N/A </p>
 
 -----
 # 📊 Stats
