@@ -56,7 +56,7 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> Live at: https://rosaleeknight.github.io/odin-recipes/ </p>
 
 -----
-# Pong
+# 🎮 Pong
 <p> A pong game I created to test the pygame library. </p>
 <p> Contains: <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158237145-ccd16feb-fb36-412e-92d5-c9f8bfe6cd97.svg" alt="Python" ></a> </p>
 <p> Repo at: https://github.com/RosaleeKnight/pong </p>
