@@ -33,10 +33,10 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> <a href="https://github.com/RosaleeKnight/etch-a-sketch"><img src="https://user-images.githubusercontent.com/97799058/159015154-6bf727a0-7878-4b78-8b87-63c541571fc4.svg" alt="Repo is Here" ></a> <a href="https://rosaleeknight.github.io/etch-a-sketch/"><img src="https://user-images.githubusercontent.com/97799058/159016648-332bab72-96d4-4055-bb4d-5d8d94af82a1.svg" alt="Live on GitHub" ></a> </p>
 
 -----
-# 🎮 Minesweeper
+# 🎮 Minesweeper Clone
 <p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158920065-52f18001-3d1e-4ef1-a9ec-920fedc30815.svg" alt="SASS" ></a> </p> 
-<p> A CSS only game challenge I completed from a coding magazine. </p>
-<p> <a href="https://github.com/RosaleeKnight/minesweeper"><img src="https://user-images.githubusercontent.com/97799058/159015154-6bf727a0-7878-4b78-8b87-63c541571fc4.svg" alt="Repo is Here" ></a> <a href="https://rosaleeknight.github.io/minesweeper/"><img src="https://user-images.githubusercontent.com/97799058/159016648-332bab72-96d4-4055-bb4d-5d8d94af82a1.svg" alt="Live on GitHub" ></a> </p>
+<p> A CSS only clone game challenge I completed from a coding magazine. </p>
+<p> <a href="https://github.com/RosaleeKnight/minesweeper"><img src="https://user-images.githubusercontent.com/97799058/159015154-6bf727a0-7878-4b78-8b87-63c541571fc4.svg" alt="Repo is Here" ></a> <a href="https://rosaleeknight.github.io/minesweeper-clone/"><img src="https://user-images.githubusercontent.com/97799058/159016648-332bab72-96d4-4055-bb4d-5d8d94af82a1.svg" alt="Live on GitHub" ></a> </p>
 
 -----
 # 🎮 Minesweeper JavaScript Edition
