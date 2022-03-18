@@ -54,7 +54,7 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 # 🎮 Pong Clone
 <p> <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a> <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a> </p>
 <p> A pong game clone I created to test the pygame library. </p>
-<p> <a href="https://github.com/RosaleeKnight/pong"><img src="https://user-images.githubusercontent.com/97799058/159015154-6bf727a0-7878-4b78-8b87-63c541571fc4.svg" alt="Repo is Here" ></a> <a href="https://replit.com/@RosaleeKnight/Pong?v=1"><img src="https://user-images.githubusercontent.com/97799058/159016197-3b6f0114-8157-4a9e-a92d-456519b920f9.svg" alt="Live on Replit" ></a> </p>
+<p> <a href="https://github.com/RosaleeKnight/pong"><img src="https://user-images.githubusercontent.com/97799058/159015154-6bf727a0-7878-4b78-8b87-63c541571fc4.svg" alt="Repo is Here" ></a> <a href="https://replit.com/@RosaleeKnight/Pong-Clone?v=1"><img src="https://user-images.githubusercontent.com/97799058/159016197-3b6f0114-8157-4a9e-a92d-456519b920f9.svg" alt="Live on Replit" ></a> </p>
 
 -----
 # 🎮 Rock Paper Scissors
