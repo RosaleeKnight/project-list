@@ -58,7 +58,7 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 -----
 # 🎮 Pong
 <p> A pong game I created to test the pygame library. </p>
-<p> Contains: <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a> </p>
+<p> Contains: <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a> <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a> </p>
 <p> Repo at: https://github.com/RosaleeKnight/pong </p>
 <p> Live at: https://replit.com/@RosaleeKnight/Pong?v=1 </p>
 
