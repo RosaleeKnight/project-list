@@ -27,10 +27,10 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> <a href="https://github.com/RosaleeKnight/bash-configuration"><img src="https://user-images.githubusercontent.com/97799058/159015154-6bf727a0-7878-4b78-8b87-63c541571fc4.svg" alt="Repo is Here" ></a> <a href=""><img src="https://user-images.githubusercontent.com/97799058/159016259-5a2cc232-fa54-49a8-aa72-98bb96494c83.svg" alt="Live is N/A" ></a></p>
 
 -----
-# 🎮 Etch A Sketch
+# 🎮 Etch A Sketch Clone
 <p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158913825-2ecfad34-7538-4fae-811e-e3bf030b7215.svg" alt="JavaScript" ></a> </p> 
-<p> A game project I completed while doing the Odin Project coursework. </p>
-<p> <a href="https://github.com/RosaleeKnight/etch-a-sketch"><img src="https://user-images.githubusercontent.com/97799058/159015154-6bf727a0-7878-4b78-8b87-63c541571fc4.svg" alt="Repo is Here" ></a> <a href="https://rosaleeknight.github.io/etch-a-sketch/"><img src="https://user-images.githubusercontent.com/97799058/159016648-332bab72-96d4-4055-bb4d-5d8d94af82a1.svg" alt="Live on GitHub" ></a> </p>
+<p> A clone game project I completed while doing the Odin Project coursework. </p>
+<p> <a href="https://github.com/RosaleeKnight/etch-a-sketch-clone"><img src="https://user-images.githubusercontent.com/97799058/159015154-6bf727a0-7878-4b78-8b87-63c541571fc4.svg" alt="Repo is Here" ></a> <a href="https://rosaleeknight.github.io/etch-a-sketch-clone/"><img src="https://user-images.githubusercontent.com/97799058/159016648-332bab72-96d4-4055-bb4d-5d8d94af82a1.svg" alt="Live on GitHub" ></a> </p>
 
 -----
 # 🎮 Minesweeper Clone
