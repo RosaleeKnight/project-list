@@ -69,7 +69,7 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 
 -----
 # 🎨 Word Cloud
-<p> <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a> <a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/158920056-6cc71ff7-1d94-4160-9c7e-0d8b3aef090c.svg" alt="Jupyter" ></a> </p>
+<p> <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a> <a href="https://jupyter.org/"><img src="https://user-images.githubusercontent.com/97799058/160221239-9770f260-554c-4194-938c-534a3b354550.svg" alt="Jupyter Notebook" ></a> </p>
 <p> A graphic created by make a word cloud using python in a jupyter notebook for my final project in Crash Course on Python by Google. </p>
 <p> <a href="https://github.com/RosaleeKnight/word-cloud"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> </p>
 
