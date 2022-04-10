@@ -34,7 +34,7 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 -----
 # 🎮 <a href="https://rosaleeknight.github.io/minesweeper-clone/"> Minesweeper Clone </a>
 <p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> <a href="https://sass-lang.com/"><img src="https://user-images.githubusercontent.com/97799058/158920065-52f18001-3d1e-4ef1-a9ec-920fedc30815.svg" alt="SASS" ></a> </p> 
-<p> A CSS only clone game challenge I completed from a coding magazine using a css grid. </p>
+<p> A CSS only clone game challenge I completed from a coding magazine.. </p>
 <p> <a href="https://github.com/RosaleeKnight/minesweeper-clone"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/minesweeper-clone/"><img src="https://user-images.githubusercontent.com/97799058/159592228-2ed12a3e-da33-479e-a5c9-04f27c81a976.svg" alt="to play the game click here" ></a> </p>
 
 -----
