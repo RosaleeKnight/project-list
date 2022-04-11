@@ -28,7 +28,7 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 -----
 # 🎮 <a href="https://rosaleeknight.github.io/etch-a-sketch-clone/"> Etch A Sketch Clone </a>
 <p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158913825-2ecfad34-7538-4fae-811e-e3bf030b7215.svg" alt="JavaScript" ></a> </p> 
-<p> A clone game project I completed while doing the Odin Project coursework. </p>
+<p> A clone game project I completed while doing the Odin Project coursework using a CSS Grid. </p>
 <p> <a href="https://github.com/RosaleeKnight/etch-a-sketch-clone"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/etch-a-sketch-clone/"><img src="https://user-images.githubusercontent.com/97799058/159592228-2ed12a3e-da33-479e-a5c9-04f27c81a976.svg" alt="to play the game click here" ></a> </p>
 
 -----
