@@ -62,6 +62,12 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> <a href="https://github.com/RosaleeKnight/odin-recipes"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/odin-recipes/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
 
 -----
+# 🎮 <a href="https://replit.com/@RosaleeKnight/Paint-Clone?v=1"> Paint Clone </a>
+<p> <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" > </a> </p>
+<p> A paint clone I created to test out <a href="https://docs.python.org/3/library/tkinter.html"> Tkinter </a> and <a href="https://pillow.readthedocs.io/en/stable/"> Pillow. </a>
+<p> <a href="https://github.com/RosaleeKnight/paint-clone"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://replit.com/@RosaleeKnight/Paint-Clone?v=1"><img src="https://user-images.githubusercontent.com/97799058/159592228-2ed12a3e-da33-479e-a5c9-04f27c81a976.svg" alt="to play the game click here" ></a> </p>
+
+-----
 # 🎮 <a href="https://replit.com/@RosaleeKnight/Pong-Clone?v=1"> Pong Clone </a>
 <p> <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a> <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a> </p>
 <p> A pong game clone I created to test the pygame library. </p>
