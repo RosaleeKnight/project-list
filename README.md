@@ -61,7 +61,7 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> <a href="https://github.com/RosaleeKnight/minesweeper-javascript-clone"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/minesweeper-javascript-clone/"><img src="https://user-images.githubusercontent.com/97799058/159592228-2ed12a3e-da33-479e-a5c9-04f27c81a976.svg" alt="to play the game click here" ></a> </p>
 
 -----
-# 🖱️ <a href="https://rosaleeknight.github.io/odin-recipes/"> Odin Recipe Website </a>
+# 🖱️ <a href="https://rosaleeknight.github.io/odin-recipes/"> Recipe Website </a>
 <p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> </p> 
 <p> A website I completed while doing the Odin Project Coursework. </p>
 <p> <a href="https://github.com/RosaleeKnight/odin-recipes"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/odin-recipes/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
