@@ -14,12 +14,6 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> <a href="https://github.com/RosaleeKnight/admin-dashboard"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/admin-dashboard/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
 
 -----
-# 🖱️ <a href="https://rosaleeknight.github.io/calculator"> Calculator </a>
-<p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158913825-2ecfad34-7538-4fae-811e-e3bf030b7215.svg" alt="JavaScript" ></a> </p> 
-<p> A calculator on a webpage that I completed while doing the Odin Project coursework using ES6 classes. </p>
-<p> <a href="https://github.com/RosaleeKnight/calculator"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/calculator"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
-
------
 # 💻 <a href="https://github.com/RosaleeKnight/basic-scripts-collection"> Basic Script Collection </a>
 <p> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158913825-2ecfad34-7538-4fae-811e-e3bf030b7215.svg" alt="JavaScript" ></a> <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a> </p> 
 <p> A collection of basic scripts for small tasks. </p>
@@ -30,6 +24,12 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> <a href="https://www.gnu.org/software/bash/"><img src="https://user-images.githubusercontent.com/97799058/158920012-9abd2af8-728a-4462-8876-2054bf02a02b.svg" alt="Shell Script" ></a> </p> 
 <p> A copy of my BaSH configuration file I use to style my prompt (bash.rc). </p>
 <p> <a href="https://github.com/RosaleeKnight/bash-configuration"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> 
+
+-----
+# 🖱️ <a href="https://rosaleeknight.github.io/calculator"> Calculator </a>
+<p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158913825-2ecfad34-7538-4fae-811e-e3bf030b7215.svg" alt="JavaScript" ></a> </p> 
+<p> A calculator on a webpage that I completed while doing the Odin Project coursework using ES6 classes. </p>
+<p> <a href="https://github.com/RosaleeKnight/calculator"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/calculator"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
 
 -----
 # 🎮 <a href="https://rosaleeknight.github.io/etch-a-sketch-clone/"> Etch A Sketch Clone </a>
@@ -61,12 +61,6 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> <a href="https://github.com/RosaleeKnight/minesweeper-javascript-clone"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/minesweeper-javascript-clone/"><img src="https://user-images.githubusercontent.com/97799058/159592228-2ed12a3e-da33-479e-a5c9-04f27c81a976.svg" alt="to play the game click here" ></a> </p>
 
 -----
-# 🖱️ <a href="https://rosaleeknight.github.io/odin-recipes/"> Recipe Website </a>
-<p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> </p> 
-<p> A website I completed while doing the Odin Project Coursework. </p>
-<p> <a href="https://github.com/RosaleeKnight/odin-recipes"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/odin-recipes/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
-
------
 # 🎮 <a href="https://replit.com/@RosaleeKnight/Paint-Clone?v=1"> Paint Clone </a>
 <p> <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" > </a> </p>
 <p> A paint clone I created to test out <a href="https://docs.python.org/3/library/tkinter.html"> Tkinter </a> and <a href="https://pillow.readthedocs.io/en/stable/"> Pillow. </a>
@@ -77,6 +71,18 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> <a href="https://www.python.org/"><img src="https://user-images.githubusercontent.com/97799058/158920021-b61c8c63-cc0e-4129-b864-56896112fdcc.svg" alt="Python" ></a> <a href="https://www.pygame.org/"><img src="https://user-images.githubusercontent.com/97799058/158928071-df3fed76-c90b-4a59-8f7d-62c9f0aad04f.svg" alt="Pygame" ></a> </p>
 <p> A pong game clone I created to test the pygame library. </p>
 <p> <a href="https://github.com/RosaleeKnight/pong-clone"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://replit.com/@RosaleeKnight/Pong-Clone?v=1"><img src="https://user-images.githubusercontent.com/97799058/159592228-2ed12a3e-da33-479e-a5c9-04f27c81a976.svg" alt="to play the game click here" ></a> </p>
+
+-----
+# 🖱️ <a href="https://rosaleeknight.github.io/odin-recipes/"> Recipe Website </a>
+<p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> </p> 
+<p> A website I completed while doing the Odin Project Coursework. </p>
+<p> <a href="https://github.com/RosaleeKnight/odin-recipes"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/odin-recipes/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
+
+-----
+# 🖱️ <a href="https://rosaleeknight.github.io/restaurant-page/"> Restaurant Page </a>
+<p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://user-images.githubusercontent.com/97799058/158913825-2ecfad34-7538-4fae-811e-e3bf030b7215.svg" alt="JavaScript" ></a> </p> 
+<a> A restaurant page I created while doing the Odin Project coursework using webpack. </p>
+<p> <a href="https://github.com/RosaleeKnight/restaurant-page"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/restaurant-page/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
 
 -----
 # 🎮 <a href="https://rosaleeknight.github.io/rock-paper-scissors-clone/"> Rock Paper Scissors Clone </a>
@@ -91,16 +97,16 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> <a href="https://github.com/RosaleeKnight/tic-tac-toe"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/tic-tac-toe/"><img src="https://user-images.githubusercontent.com/97799058/159592228-2ed12a3e-da33-479e-a5c9-04f27c81a976.svg" alt="to play the game click here" ></a> </p>
 
 -----
-# 🖱️ <a href="https://rosaleeknight.github.io/sign-up-form/"> Website Sign Up Form </a>
-<p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> </p> 
-<a> A sign up form design I created on a webpage while doing the Odin Project coursework. </p>
-<p> <a href="https://github.com/RosaleeKnight/sign-up-form"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/sign-up-form/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
-
------
 # 🖱️ <a href="https://rosaleeknight.github.io/landing-page/"> Website Landing Page </a>
 <p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> </p> 
 <p> A webpage I completed while doing the Odin Project coursework </p>
 <p> <a href="https://github.com/RosaleeKnight/landing-page"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/landing-page/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
+
+-----
+# 🖱️ <a href="https://rosaleeknight.github.io/sign-up-form/"> Website Sign Up Form </a>
+<p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> </p> 
+<a> A sign up form design I created on a webpage while doing the Odin Project coursework. </p>
+<p> <a href="https://github.com/RosaleeKnight/sign-up-form"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/sign-up-form/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
 
 -----
 # 🎨 <a href="https://github.com/RosaleeKnight/word-cloud"> Word Cloud </a>
