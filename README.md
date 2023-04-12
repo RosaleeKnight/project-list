@@ -116,5 +116,4 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 
 -----
 # 📊 Stats
-![GitHub last commit](https://img.shields.io/github/last-commit/RosaleeKnight/project-list)
 [![HitCount](https://hits.dwyl.com/RosaleeKnight/project-list.svg?style=flat)](http://hits.dwyl.com/RosaleeKnight/project-list)
