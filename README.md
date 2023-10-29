@@ -1,3 +1,6 @@
+
+![project-list](https://github.com/RosaleeKnight/project-list/assets/97799058/9c3306fe-aa2e-456c-892f-41aa9e085361)
+
 # ⭐ This is an complete list of all my projects and content.
 For anyone interested in what I've been up to this list is ordered alphabetically by name with a short description of each project, a link to the repo page and a link to the live page.
 
