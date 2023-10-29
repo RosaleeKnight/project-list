@@ -96,6 +96,11 @@ For anyone interested in what I've been up to this list is ordered alphabeticall
 <p> A game I created during the Odin Project coursework using css grid for the board and minimax for the AI to make it unbeatable (Easy, Medium and Hard AIs are also included). </p>
 <p> <a href="https://github.com/RosaleeKnight/tic-tac-toe"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://rosaleeknight.github.io/tic-tac-toe/"><img src="https://user-images.githubusercontent.com/97799058/159592228-2ed12a3e-da33-479e-a5c9-04f27c81a976.svg" alt="to play the game click here" ></a> </p>
 
+# 🖱️ <a href="https://rosaleeknight.github.io/landing-page/"> Vegan Recipe Website </a>
+<p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://getbootstrap.com/"><img src="https://user-images.githubusercontent.com/97799058/158922554-e0d007aa-abea-4ad9-bdd2-1f97cfbb2754.svg" alt="Bootstrap" ></a></p>
+<p>Collection of vegan recipes from different locations curated for my personal use.</p>
+<p> <a href="https://github.com/RosaleeKnight/vegan-recipe-book"><img src="https://user-images.githubusercontent.com/97799058/159591918-a77b1113-d670-46b6-b7fc-587b25017810.svg" alt="for repository code click here" ></a> <a href="https://vegan-recipe-book.rosaleeknight.repl.co/"><img src="https://user-images.githubusercontent.com/97799058/159593202-ce605649-cd5c-4210-b5f2-796d2c7dc8cf.svg" alt="to view the webpage click here" ></a> </p>
+
 -----
 # 🖱️ <a href="https://rosaleeknight.github.io/landing-page/"> Website Landing Page </a>
 <p> <a href="https://html.spec.whatwg.org/multipage/"><img src="https://user-images.githubusercontent.com/97799058/158913802-521c0f06-eb4c-4dae-9c55-83add8bc3fbd.svg" alt="HTML 5" ></a> <a href="https://www.w3.org/Style/CSS/"><img src="https://user-images.githubusercontent.com/97799058/158913813-308af941-f689-4c03-a26b-5401d9d284c7.svg" alt="CSS 3" ></a> </p> 
